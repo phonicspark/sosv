@@ -15,7 +15,7 @@
                 "audio/accordian.mp3"
             ],
             "db": "80",
-            "pause": "0"
+            "pause": "1"
         },
         {
             "name": "church-bell-2",
@@ -25,7 +25,7 @@
                 "audio/church-bell.mp3"
             ],
             "db": "80",
-            "pause": "0"
+            "pause": "1"
         }
     ]
 }
